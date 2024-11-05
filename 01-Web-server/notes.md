@@ -4,7 +4,7 @@
 
 ### Client
 
-- A Client is a device or application that requests services or resources from the server.
+- A Client is a device or an application that requests services or resources from the server.
 - Examples :
   1. web browsers,
   2. email clients, or any networked device.
@@ -13,7 +13,7 @@
 
 - A server is a powerful computer or software application that provides resources, services, or data to clients.
 - Servers can manage network resources and handle multiple client requests simultaneously.
-- Simply Put, Server is just a software that's duty is to serve a request.
+- Simply put, Server is just a software that's duty is to serve a request.
 - Functions:
   1. File Server: Stores and manages files for network users.
   2. Database Server: Provides database services and manages database access.
@@ -69,7 +69,7 @@
 ### Client-Server Interaction
 
 1. Client sends a request: The user interacts with the client application (e.g., a web browser), which sends a request to the server.
-2. Server processes the request: The server receives the request, processes it, and performs any necessary operations, possibly involving querying a database.
+2. Server processes the request: The server receives the request, processes it, and performs necessary operations, possibly involving querying a database.
 3. Server sends a response: The server sends the processed data or result back to the client.
 4. Client displays the response: The client application receives the response and presents it to the user.
 

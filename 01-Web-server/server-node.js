@@ -4,10 +4,9 @@
 const http = require("http");
 
 // # localhost
-const hostname = "127.0.0.1";
-// const hostname = "0.0.0.0";
+const hostname = "127.0.0.1" || "0.0.0.0";
 
-// # assigning a port in the local syatem
+// # assigning a port in the local system
 const port = 8000;
 
 // # creating a server instance
